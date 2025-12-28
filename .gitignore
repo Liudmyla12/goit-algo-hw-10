@@ -1,0 +1,55 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+ENV/
+env/
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python tools / caches
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# =========================
+# Build / packaging
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+wheelhouse/
+
+# =========================
+# Jupyter (if ever used)
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs
+# =========================
+*.log
+
