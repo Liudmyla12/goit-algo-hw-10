@@ -122,7 +122,3 @@ Plot saved: integral_plot.png
 
 - Python **3.10+** (підходить також 3.12)
 - Залежності: **PuLP, NumPy, Matplotlib, SciPy** (встановлюються з `requirements.txt`)
-
-```
-
-```
